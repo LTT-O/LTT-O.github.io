@@ -55,7 +55,7 @@ Dongyu Yan\*, Leyi Wu\*, **Jiantao Lin**, Luozhou Wang, Tianshuo Xu, Zhifei Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/prm_teaser.png' alt="prm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-#### **PRM: Photometric Stereo-based Large Reconstruction Model <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 700; text-shadow: 0 0 20px rgba(102, 126, 234, 0.5);">(HighLight)</span>**  
+####  <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 700; text-shadow: 0 0 20px rgba(102, 126, 234, 0.5);">(HighLight)</span> **PRM: Photometric Stereo-based Large Reconstruction Model**  
 [**📄 Paper (arXiv)**](https://arxiv.org/pdf/2412.07371)   \\
 Wenhang Ge*, **Jiantao Lin\***, Jiawei Feng, Guibao Shen, Tao Hu, Xinli Xu, Ying-Cong Chen
 
@@ -69,7 +69,7 @@ Wenhang Ge*, **Jiantao Lin\***, Jiawei Feng, Guibao Shen, Tao Hu, Xinli Xu, Ying
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/luciddreamer_teaser.jpg' alt="luciddreamer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-#### **LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**  
+####  <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 700; text-shadow: 0 0 20px rgba(102, 126, 234, 0.5);">(HighLight)</span> **LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**  
 [**📄 Paper (arXiv)**](https://arxiv.org/abs/2311.11284) <span class='show_paper_citations' data='ri-snP0AAAAJ:u5HHmVD_uO8C'></span>   \\
 Yixun Liang\*, Xin Yang\*, **Jiantao Lin**, Haodong Li, Xiaogang Xu, Ying-Cong Chen
 
