@@ -55,7 +55,7 @@ Dongyu Yan\*, Leyi Wu\*, **Jiantao Lin**, Luozhou Wang, Tianshuo Xu, Zhifei Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/prm_teaser.png' alt="prm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-#### **PRM: Photometric Stereo-based Large Reconstruction Model**  
+#### **PRM: Photometric Stereo-based Large Reconstruction Model <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 700; text-shadow: 0 0 20px rgba(102, 126, 234, 0.5);">(HighLight)</span>**  
 [**📄 Paper (arXiv)**](https://arxiv.org/pdf/2412.07371)   \\
 Wenhang Ge*, **Jiantao Lin\***, Jiawei Feng, Guibao Shen, Tao Hu, Xinli Xu, Ying-Cong Chen
 
