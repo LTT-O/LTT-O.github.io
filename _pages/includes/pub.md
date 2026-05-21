@@ -14,7 +14,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/DiMeR_teaser.png' alt="DiMeR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/DiMeR_teaser.png' alt="DiMeR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 #### **DiMeR: Disentangled Mesh Reconstruction Model**  

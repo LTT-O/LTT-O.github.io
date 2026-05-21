@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2023.09 - Present*, **MPhil**, The Hong Kong University of Science and Technology (Guangzhou), China.
+- *2023.09 - Present*, **PhD in AI**, The Hong Kong University of Science and Technology (Guangzhou), China.
 - *2019.09 - 2023.06*, **Undergraduate**, Jinan University, China.
 
 <!-- # 💻 Internships
