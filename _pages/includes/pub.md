@@ -18,6 +18,8 @@
 #### **DirectUV: Image-Conditioned UV Texture Generation with Surface-Aware Positional Encoding**  
 [**📄 Paper (arXiv)**](https://arxiv.org/abs/2609.34651)   \\
 **Jiantao Lin\***, Yingjie Xu\*, Mingzhi Sheng, Yangkai Wei, Hao Chen, Ying-Cong Chen
+
+[**Project Page**](https://ltt-o.github.io/DirectUV.github.io/)
   - Generates textures directly in latent UV space with a diffusion transformer, avoiding the occlusion issues of projection-based methods.
   - Proposes Surface-Aware Positional Encoding (SAPE), which uses 3D surface coordinates so attention follows the actual geometry rather than the UV layout.
 </div>
