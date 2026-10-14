@@ -1,5 +1,5 @@
 # 📝 Publications 
-## 3D Generation/Reconstruction
+## 3D Generation & Reconstruction
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/Seg3DPart_teaser.jpg' alt="Seg3DParts" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -101,7 +101,20 @@ Dongyu Yan\*, Leyi Wu\*, **Jiantao Lin**, Luozhou Wang, Tianshuo Xu, Zhifei Chen
 </div>
 </div>
 
-## 2D Generation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/flexgen_teaser.png' alt="flexgen" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+#### **FlexGen: Flexible Multi-View Generation from Text and Image Inputs**  
+[**📄 Paper (arXiv)**](https://arxiv.org/abs/2410.10745)   \\
+Xinli Xu\*, Wenhang Ge\*, **Jiantao Lin\***, Jiawei Feng, Lie Xu, Hanfeng Zhao, Shunsi Zhang, Ying-Cong Chen
+
+[**Project Page**](https://xxu068.github.io/flexgen.github.io/)  
+  - A multi-view generation model that fuses text and image inputs.
+  - Enables controllable and high-quality multi-view synthesis.
+</div>
+</div>
+
+## Agentic AI
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ComfyMind_teaser.png' alt="ComfyMind" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -116,6 +129,8 @@ Litao Guo\*, Xinli Xu\*, Luozhou Wang, **Jiantao Lin**, Jinsong Zhou, Zixin Zhan
 </div>
 </div>
 
+## Text-to-Image Generation
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MPPR_teaser.png' alt="MPPR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -124,19 +139,6 @@ Litao Guo\*, Xinli Xu\*, Luozhou Wang, **Jiantao Lin**, Jinsong Zhou, Zixin Zhan
 Zhibing Zhang\*, **Jiantao Lin\***, Cangqi Zhou, Rui Xia
   - Proposes an end-to-end prompt optimization method that uses high-quality images as targets and the generative model's internal states as optimization signals, producing continuous refined prompts.
   - Introduces a memory module that stores common features of high-quality prompts as priors to guide efficient optimization in continuous space.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/flexgen_teaser.png' alt="flexgen" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-#### **FlexGen: Flexible Multi-View Generation from Text and Image Inputs**  
-[**📄 Paper (arXiv)**](https://arxiv.org/abs/2410.10745)   \\
-Xinli Xu\*, Wenhang Ge\*, **Jiantao Lin\***, Jiawei Feng, Lie Xu, Hanfeng Zhao, Shunsi Zhang, Ying-Cong Chen
-
-[**Project Page**](https://xxu068.github.io/flexgen.github.io/)  
-  - A multi-view generation model that fuses text and image inputs.
-  - Enables controllable and high-quality multi-view synthesis.
 </div>
 </div>
 
@@ -151,7 +153,7 @@ Guibao Shen\*, Luozhou Wang\*, **Jiantao Lin**, Wenhang Ge, Chaozhe Zhang, Xin T
 </div>
 </div>
 
-## 2D Recognition
+## Visual Recognition
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recogn. Lett 2024</div><img src='images/webly_teaser.jpg' alt="webly-fg" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
